@@ -1,0 +1,60 @@
+2023-05-27 00:39:18: User added: YousefZaqout
+2023-05-27 00:40:39: Successful login for jobID: 120210235
+2023-05-27 00:40:39: A select for count book from book table was called
+2023-05-27 00:40:39: A select for count student from student table was called
+2023-05-27 00:40:39: A select for count issue books from issue_books table was called
+2023-05-27 00:40:39: A select for count lagging students from issue_books table was called
+2023-05-27 00:40:42: A select all records from the book table was called
+2023-05-27 00:40:54: An insert into the book table was made: Java
+2023-05-27 00:40:55: A select all records from the book table was called
+2023-05-27 00:40:57: A select all records from student table was called
+2023-05-27 00:41:21: An insert into student table was made:Yousef
+2023-05-27 00:41:22: A select all records from student table was called
+2023-05-27 00:41:24: Retrieved all issue books from the database
+2023-05-27 00:41:33: A select for count book from book table when equal ISBIN  was called
+2023-05-27 00:41:33: A select for count book from book table  when equal ID was called
+2023-05-27 00:41:33: An update on the book table for quantity was made for book with ISBIN: 1
+2023-05-27 00:41:33: Added issue book: 1 for student: 1
+2023-05-27 00:41:34: Retrieved all issue books from the database
+2023-05-27 00:41:38: A select all records from the book table was called
+2023-05-27 00:41:49: A select for count book from book table when equal ISBIN  was called
+2023-05-27 00:41:49: A select for count book from book table  when equal ID was called
+2023-05-27 00:41:49: Retrieved issue book information for book: 1 and student: 1
+2023-05-27 00:41:50: A select for count book from book table when equal ISBIN  was called
+2023-05-27 00:41:50: A select for count book from book table  when equal ID was called
+2023-05-27 00:41:50: An update on the book table for quantity was made for book with ISBIN: 1
+2023-05-27 00:41:50: Updated issue book status to 'returned' for book: 1 and student: 1
+2023-05-27 00:41:52: A select all records from the book table was called
+2023-05-27 00:41:56: Retrieved all lagging students from the database
+2023-05-27 00:42:01: User information was fetched from the database
+2023-05-27 13:15:44: Successful login for jobID: 120210235
+2023-05-27 13:15:45: A select for count book from book table was called
+2023-05-27 13:15:45: A select for count student from student table was called
+2023-05-27 13:15:45: A select for count issue books from issue_books table was called
+2023-05-27 13:15:45: A select for count lagging students from issue_books table was called
+2023-05-27 13:15:48: A select all records from student table was called
+2023-05-27 13:39:33: User added: Yousef
+2023-05-27 13:39:53: Successful login for jobID: 120210333
+2023-05-27 13:39:53: A select for count book from book table was called
+2023-05-27 13:39:53: A select for count student from student table was called
+2023-05-27 13:39:53: A select for count issue books from issue_books table was called
+2023-05-27 13:39:53: A select for count lagging students from issue_books table was called
+2023-05-27 13:40:09: A select all records from the book table was called
+2023-05-27 13:40:14: Retrieved all issue books from the database
+2023-05-27 13:40:16: A select all records from the book table was called
+2023-05-27 13:40:17: Retrieved all issue books from the database
+2023-05-27 13:40:24: A select all records from student table was called
+2023-05-27 13:40:27: Retrieved all issue books from the database
+2023-05-27 13:40:35: A select for count book from book table when equal ISBIN  was called
+2023-05-27 13:40:35: A select for count book from book table  when equal ID was called
+2023-05-27 13:40:35: An update on the book table for quantity was made for book with ISBIN: 1
+2023-05-27 13:40:35: Added issue book: 1 for student: 1
+2023-05-27 13:40:36: Retrieved all issue books from the database
+2023-05-27 13:40:38: A select all records from the book table was called
+2023-05-27 13:41:04: A select for count book from book table when equal ISBIN  was called
+2023-05-27 13:41:04: A select for count book from book table  when equal ID was called
+2023-05-27 13:41:04: Retrieved issue book information for book: 1 and student: 1
+2023-05-27 13:41:07: A select for count book from book table when equal ISBIN  was called
+2023-05-27 13:41:07: A select for count book from book table  when equal ID was called
+2023-05-27 13:41:07: An update on the book table for quantity was made for book with ISBIN: 1
+2023-05-27 13:41:07: Updated issue book status to 'returned' for book: 1 and student: 1
